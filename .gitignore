@@ -1,7 +1,14 @@
 # Byte-compiled / optimized / DLL files
+*.DS_Store
 __pycache__/
 *.py[cod]
 *$py.class
+*.mp4
+*.mov
+*.avi
+*.jpg
+*.png
+*.pb
 
 # C extensions
 *.so
